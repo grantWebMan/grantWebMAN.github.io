@@ -10,7 +10,7 @@ tag:  Vue
 
 ## MVVM模式
 
-![](http://img.smyhvae.com/20180420_2150.png)
+<img src="/images/posts/Vue/20180420_2150.png" height="200" width="600"> 
 
 - Model：负责数据存储
 
